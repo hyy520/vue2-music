@@ -7,7 +7,7 @@
 
 ## 项目截图
 
-![image](https://github.com/hyy520/vue2-music/static/1.png)
+![image](https://raw.githubusercontent.com/hyy520/vue2-music/master/static/1.png)
 
 ![image](https://github.com/hyy520/vue2-music/tree/master/static/2.png)
 
