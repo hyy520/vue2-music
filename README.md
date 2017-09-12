@@ -9,13 +9,13 @@
 
 ![image](https://raw.githubusercontent.com/hyy520/vue2-music/master/static/1.png)
 
-![image](https://github.com/hyy520/vue2-music/tree/master/static/2.png)
+![image](https://raw.githubusercontent.com/hyy520/vue2-music/master/static/2.png)
 
-![image](https://github.com/hyy520/vue2-music/tree/master/static/3.png)
+![image](https://raw.githubusercontent.com/hyy520/vue2-music/master/static/3.png)
 
-![image](https://github.com/hyy520/vue2-music/tree/master/static/4.png)
+![image](https://raw.githubusercontent.com/hyy520/vue2-music/master/static/4.png)
 
-![image](https://github.com/hyy520/vue2-music/tree/master/static/5.png)
+![image](https://raw.githubusercontent.com/hyy520/vue2-music/master/static/5.png)
 
 
 ## Build Setup
